@@ -1,0 +1,24 @@
+{
+  "number": 85,
+  "product_id": "JLZ-EDU-SK-069",
+  "chinese_name": "费用报销审核",
+  "english_name": "Expense Reimbursement Reviewer",
+  "repository_name": "edu-expense-reimbursement-reviewer",
+  "product_type": "Skill",
+  "category": "07 财务运营中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-expense-reimbursement-reviewer-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "报销单、用途、金额、发票、审批、预算科目和制度要求",
+  "main_output": "合规检查结论、缺失材料、预算影响、风险等级和建议处理",
+  "package_entries": [
+    "edu-expense-reimbursement-reviewer/SKILL.md",
+    "edu-expense-reimbursement-reviewer/references/DOMAIN_GUIDE.md",
+    "edu-expense-reimbursement-reviewer/references/EXAMPLES.md",
+    "edu-expense-reimbursement-reviewer/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

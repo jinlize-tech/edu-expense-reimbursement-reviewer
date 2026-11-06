@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-069",
+  "repository_name": "edu-expense-reimbursement-reviewer",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-expense-reimbursement-reviewer-v1.0.0.zip",
+  "sha256": "B12D9AD2BADF8319C5840855E5AF0F8011F1503A78FEB882613CE8C798DB53A1",
+  "bytes": 4853,
+  "entries": [
+    "edu-expense-reimbursement-reviewer/SKILL.md",
+    "edu-expense-reimbursement-reviewer/references/DOMAIN_GUIDE.md",
+    "edu-expense-reimbursement-reviewer/references/EXAMPLES.md",
+    "edu-expense-reimbursement-reviewer/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:45:50.8363001+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
