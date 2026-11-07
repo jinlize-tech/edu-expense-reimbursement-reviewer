@@ -6,19 +6,37 @@
   "repository_name": "edu-expense-reimbursement-reviewer",
   "product_type": "Skill",
   "category": "07 财务运营中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-expense-reimbursement-reviewer-v1.0.0.zip",
+  "baseline_commit": "67beda74141d512ff395a1645f085008e4c0bb2d",
+  "package_path": "dist/edu-expense-reimbursement-reviewer-v1.0.1.zip",
+  "previous_package_path": "dist/edu-expense-reimbursement-reviewer-v1.0.0.zip",
+  "previous_package_sha256": "B12D9AD2BADF8319C5840855E5AF0F8011F1503A78FEB882613CE8C798DB53A1",
   "calculator": false,
   "core_input": "报销单、用途、金额、发票、审批、预算科目和制度要求",
   "main_output": "合规检查结论、缺失材料、预算影响、风险等级和建议处理",
+  "main_output_fields": [
+    "合规检查结论",
+    "缺失材料",
+    "预算影响",
+    "风险等级和建议处理"
+  ],
   "package_entries": [
     "edu-expense-reimbursement-reviewer/SKILL.md",
     "edu-expense-reimbursement-reviewer/references/DOMAIN_GUIDE.md",
     "edu-expense-reimbursement-reviewer/references/EXAMPLES.md",
-    "edu-expense-reimbursement-reviewer/templates/OUTPUT_TEMPLATE.md"
+    "edu-expense-reimbursement-reviewer/templates/OUTPUT_TEMPLATE.md",
+    "edu-expense-reimbursement-reviewer/README.md",
+    "edu-expense-reimbursement-reviewer/USAGE.md",
+    "edu-expense-reimbursement-reviewer/LICENSE",
+    "edu-expense-reimbursement-reviewer/THIRD_PARTY_NOTICES.md",
+    "edu-expense-reimbursement-reviewer/scripts/validate_input.js"
   ]
 }

@@ -1,0 +1,8 @@
+{
+  "inputs": {
+    "报销单": "已提供并确认：报销单"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}
